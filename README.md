@@ -1,4 +1,4 @@
-##  Olá mundo! Eu sou Elasukou, estudante de programação e tecnologia!
+##  Olá mundo! Eu sou Lucas Numeriano, estudante de programação e tecnologia!
 <div>
   <a href="https://github.com/Elasukou">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elasukou&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
