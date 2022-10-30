@@ -11,7 +11,3 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Opps! : /" height="150" style="border:50px;" src="https://nerdhits.com.br/wp-content/uploads/2021/07/idade-gojo-satoru.jpg">
 </div>
-
-  <div>
-      ![Snake animation](https://github.com/Elasukou/Elasukou/blob/output/github-contribution-grid-snake.svg)
-  </div>
