@@ -1,6 +1,6 @@
 ##  Olá mundo! Eu sou Lucas Numeriano <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">
 
-- 🔬 Estou estudando HTML5, CSS3 e JS no Curso em Vídeo (https://www.cursoemvideo.com/) e Rocketseat (https://www.rocketseat.com.br/)
+- 🔬 Estou estudando HTML5, CSS3 e JS no Curso em Vídeo (https://www.cursoemvideo.com/) e na Rocketseat (https://www.rocketseat.com.br/)
 
 
 ## 🛠 &nbsp;Tecnologias que domino
