@@ -14,7 +14,7 @@ src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=jav
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Elasukou&show_icons=true&theme=synthwave" alt="Wanessa Santos's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Elasukou&show_icons=true&theme=synthwave" alt="Elasukou's stats"/>
   
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elasukou&layout=compact&theme=synthwave" alt="Most Used Languages"/>
 </p>
