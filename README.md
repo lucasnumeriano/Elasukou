@@ -2,6 +2,7 @@
 
 - 🔬 Módulo 2  do curso de HTML5 e CSS3 do Curso em Vídeo (https://www.cursoemvideo.com/)
 - 🧡 JS em progresso no  Curso em Vídeo (https://www.cursoemvideo.com/)
+- Fundamentos do Desingn Gráfico pela fundação bradesco
 
 
 ## 🛠 &nbsp;Tecnologias que domino
