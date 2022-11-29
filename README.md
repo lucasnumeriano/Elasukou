@@ -1,7 +1,7 @@
 ##  Olá mundo! Eu sou Lucas Numeriano <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">
 
 - 🔬 Módulo 2  do curso de HTML5 e CSS3 do Curso em Vídeo (https://www.cursoemvideo.com/)
-- 🧡 JS em progresso no  Curso em Vídeo (https://www.cursoemvideo.com/)
+- 🧡 JS pelo Curso em Vídeo (https://www.cursoemvideo.com/)
 - 🌳Fundamentos do Desingn Gráfico pela fundação bradesco (https://www.ev.org.br/)
 
 
