@@ -1,17 +1,17 @@
-##  Olá mundo! Eu sou Lucas Numeriano <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">
+## Lucas Numeriano
 
-- 🔬 Módulo 2  do curso de HTML5 e CSS3 do Curso em Vídeo (https://www.cursoemvideo.com/)
-- 🧡 JS pelo Curso em Vídeo (https://www.cursoemvideo.com/)
-- 🌳Fundamentos do Desingn Gráfico pela fundação bradesco (https://www.ev.org.br/)
+- Estudante de desenvolvimento web no [Curso em Vídeo](https://www.cursoemvideo.com/) e na [Rocketseat](https://www.rocketseat.com.br/sobre)
+- Fundamentos do Desingn Gráfico pela [Fundação Bradesco](https://www.ev.org.br/)
+- Enxadrista
 
-
-## 🛠 &nbsp;Tecnologias que domino
-<img align="center" alt="HTML5 " 
-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> |
-<img align ="center" alt ="CSS3"
-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> |
-<img align ="center" alt ="JAVASCRIPT"
-src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<br><br>
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
+![](https://img.shields.io/badge/-VS%20Code-2c2c32?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
