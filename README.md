@@ -2,7 +2,7 @@
 
 - Estudante de desenvolvimento web no [Curso em Vídeo](https://www.cursoemvideo.com/) e na [Rocketseat](https://www.rocketseat.com.br/sobre)
 - Fundamentos do Desingn Gráfico pela [Fundação Bradesco](https://www.ev.org.br/)
-- Enxadrista
+- Jogador de Xadrez
 
 <br><br>
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
