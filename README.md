@@ -1,7 +1,6 @@
 ## Lucas Numeriano
 
 - Estudante de desenvolvimento web no [Curso em Vídeo](https://www.cursoemvideo.com/) e na [Rocketseat](https://www.rocketseat.com.br/sobre)
-- [Formação PHP](https://cursos.alura.com.br/formacao-linguagem-php) na Alura
 - Fundamentos do Desingn Gráfico pela [Fundação Bradesco](https://www.ev.org.br/)
 - Jogador de Xadrez
 
