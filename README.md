@@ -1,6 +1,9 @@
 ## Lucas Numeriano
 
-- Estudante de desenvolvimento web no [Curso em Vídeo](https://www.cursoemvideo.com/) e na [Rocketseat](https://www.rocketseat.com.br/sobre)
+- Módulo 3 de 5 do curso de HTML5 e CSS3 do [Curso em Vídeo](https://www.cursoemvideo.com/curso/html5-css3-modulo1/) 
+- Curso de JavaScript do [Curso em Vídeo](https://www.cursoemvideo.com/curso/javascript/)
+- Estudando Escola Front-End na [Alura](https://www.alura.com.br/cursos-online-front-end)
+- Trilha Fundamentar na [Rocketseat](https://www.rocketseat.com.br/discover)
 - Fundamentos do Desingn Gráfico pela [Fundação Bradesco](https://www.ev.org.br/)
 - Jogador de Xadrez
 
