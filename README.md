@@ -15,7 +15,7 @@
 ![](https://img.shields.io/badge/Gimp-4F4F2F?style=for-the-badge&logo=Gimp&logoColor=FFFFFF)
 <br><br>
 
-## 📚 &nbsp;Tecnologias que estou estudando
+## 📚 &nbsp;Estou estudando
 
 - Front-end: 
 <img align="center" alt="HTML5 " 
@@ -23,7 +23,8 @@ src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&lo
 <img align ="center" alt ="CSS3"
 src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> |
 <img align ="center" alt ="JAVASCRIPT"
-src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> |
+
 
 - Back-end: 
 <img align ="center" alt ="PHP" 
