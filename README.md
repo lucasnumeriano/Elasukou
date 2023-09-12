@@ -1,5 +1,6 @@
 <h1> Lucas Numeriano </h1>
 
+- 👨‍🎓 Cursando Analise e Desenvolvimento de Sistemas na [Universidade Estácio de Sá](https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas)
 - 🔭 Módulo 3 de 5 do curso de HTML5 e CSS3 do [Curso em Vídeo](https://www.cursoemvideo.com/curso/html5-css3-modulo1/) 
 - 👨‍💻 Curso de JavaScript do [Curso em Vídeo](https://www.cursoemvideo.com/curso/javascript/)
 - 🤖 Estudando Escola Front-End na [Alura](https://www.alura.com.br/cursos-online-front-end)
