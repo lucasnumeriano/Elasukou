@@ -15,6 +15,7 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Figma-FA0072?style=for-the-badge&logo=Figma&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-VS%20Code-2c2c32?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
 
