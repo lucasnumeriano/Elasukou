@@ -19,7 +19,9 @@
 ![](https://img.shields.io/badge/-VS%20Code-2c2c32?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
 
-<br>
+## Estou estudando 👨‍🎓
 
-## &nbsp;Social Links
+![](https://img.shields.io/badge/Angular-FF0000?style=for-the-badge&logo=Angular&logoColor=white)
+
+## &nbsp;Social Links 🌐
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-numeriano-4a249a238/) 
