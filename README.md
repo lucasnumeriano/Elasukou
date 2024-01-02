@@ -23,6 +23,8 @@
 
 ![](https://img.shields.io/badge/Angular-FF0000?style=for-the-badge&logo=Angular&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-0000FF?style=for-the-badge&logo=TypeScript&logoColor=white)
+![](https://img.shields.io/badge/WebPack-FFFFFF?style=for-the-badge&logo=WebPack&logoColor=cyan)
+![](https://img.shields.io/badge/Babel-B00000?style=for-the-badge&logo=Babel&logoColor=white)
 
 ## &nbsp;Social Links 🌐
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-numeriano-4a249a238/) 
