@@ -1,8 +1,8 @@
 ## Olá! eu sou Lucas Numeriano 🖐️
 
 <p align="left">
-  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=Elasukou&show_icons=true&theme=dracula&count_private=true" alt= Elasukou stats"/>
-  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elasukou&layout=compact&theme=dracula&count_private=true" alt="Most Used Languages"/>
+  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucasnumeriano&show_icons=true&theme=dracula&count_private=true" alt= lucasnumeriano stats"/>
+  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnumeriano&layout=compact&theme=dracula&count_private=true" alt="Most Used Languages"/>
 </p>
 
 ## Tecnologias que uso no dia a dia 🧑‍💻
