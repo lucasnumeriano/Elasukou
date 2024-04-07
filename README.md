@@ -22,7 +22,7 @@
 
 ## Estou estudando 👨‍🎓
 
-![](https://img.shields.io/badge/Angular-FF0000?style=for-the-badge&logo=Angular&logoColor=white)
+![](https://img.shields.io/badge/Vue-1E1E1E?style=for-the-badge&logo=Vue.js&logoColor=green)
 ![](https://img.shields.io/badge/TypeScript-0000FF?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![](https://img.shields.io/badge/Babel-B00000?style=for-the-badge&logo=Babel&logoColor=white)
 
