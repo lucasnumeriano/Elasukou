@@ -25,6 +25,8 @@
 ![](https://img.shields.io/badge/Vue-1E1E1E?style=for-the-badge&logo=Vue.js&logoColor=green)
 ![](https://img.shields.io/badge/TypeScript-0000FF?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![](https://img.shields.io/badge/Babel-B00000?style=for-the-badge&logo=Babel&logoColor=white)
+![](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=yellow)
+![](https://img.shields.io/badge/PHP-0000FF?style=for-the-badge&logo=PHP&logoColor=white)
 
 ## &nbsp;Social Links 🌐
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-numeriano-4a249a238/) 
