@@ -12,9 +12,9 @@
   <img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucasnumeriano&show_icons=true&theme=transparent&count_private=true" alt= lucasnumeriano stats"/>
 </p>
 
-<h2 align="center">Tecnologias que uso no dia a dia 🧑‍💻</h2>
-
 <div align="center">
+  
+## Tecnologias que uso no dia a dia 🧑‍💻
   
   ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&ensp;
   ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&ensp;
@@ -31,14 +31,23 @@
 
 </div>  
 
-<h2 align="center">Estou estudando 👨‍🎓</h2>
 <div align="center">
+
+## Estou estudando 👨‍🎓
 
 ![](https://img.shields.io/badge/Vue-1E1E1E?style=for-the-badge&logo=Vue.js&logoColor=green)&ensp;
 ![](https://img.shields.io/badge/TypeScript-0000FF?style=for-the-badge&logo=TypeScript&logoColor=white)&ensp;
 ![](https://img.shields.io/badge/Babel-B00000?style=for-the-badge&logo=Babel&logoColor=white)&ensp;
 ![](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=yellow)&ensp;
 ![](https://img.shields.io/badge/PHP-0000FF?style=for-the-badge&logo=PHP&logoColor=white)&ensp;
+
+</div>
+
+<div align="center">
+
+## Troféus
+
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=lucasnumeriano&theme=darkhub&margin-w=3&margin-h=15"/>
 
 </div>
 
