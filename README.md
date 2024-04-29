@@ -1,8 +1,15 @@
 <h1 align="center">Olá! eu sou Lucas Numeriano 🖐️</h1>
+<div align="center">
+  
+📫 Você também pode me achar no: 
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasnumeriano/) 
+
+</div>
 
 <p align="center">
   <img width=530em src="https://streak-stats.demolab.com?user=lucasnumeriano&border_radius=5&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&theme=transparent" alt="Contributions Lucas Numeriano">
-  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnumeriano&layout=compact&theme=transparent&count_private=true" alt="Most Used Languages"/>
+  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucasnumeriano&show_icons=true&theme=transparent&count_private=true" alt= lucasnumeriano stats"/>
 </p>
 
 <h2 align="center">Tecnologias que uso no dia a dia 🧑‍💻</h2>
@@ -36,11 +43,7 @@
 </div>
 
 <h2 align="center">Social Links 🌐</h2>
-<div align="center">
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-numeriano-4a249a238/) 
-
-</div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
