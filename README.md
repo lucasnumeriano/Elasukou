@@ -7,6 +7,14 @@
 
 </div>
 
+<ul>
+  <li>🔥 Desenvolvedor Front-end. FullStack existe? 🤔😧</li>
+  <li>💬 Me pergunte sobre <code>Desenvolvimento Web, SEO, Performance, Hardware, Engenharia de Software</code></li>
+  <li>♟️ Nível no xadrez? Intermediário...😪</li>
+</ul>
+
+---
+
 <p align="center">
   <img width=530em src="https://streak-stats.demolab.com?user=lucasnumeriano&border_radius=5&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&theme=transparent" alt="Contributions Lucas Numeriano">
   <img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucasnumeriano&show_icons=true&theme=transparent&count_private=true" alt= lucasnumeriano stats"/>
@@ -36,7 +44,6 @@
 ## Estou estudando 👨‍🎓
 
 ![](https://img.shields.io/badge/Vue-1E1E1E?style=for-the-badge&logo=Vue.js&logoColor=green)&ensp;
-![](https://img.shields.io/badge/TypeScript-0000FF?style=for-the-badge&logo=TypeScript&logoColor=white)&ensp;
 ![](https://img.shields.io/badge/Babel-B00000?style=for-the-badge&logo=Babel&logoColor=white)&ensp;
 ![](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=yellow)&ensp;
 ![](https://img.shields.io/badge/PHP-0000FF?style=for-the-badge&logo=PHP&logoColor=white)&ensp;
