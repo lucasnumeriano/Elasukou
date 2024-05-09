@@ -46,6 +46,7 @@
 ## Estou estudando 👨‍🎓
 
 ![](https://img.shields.io/badge/Next.js-1E1E1E?style=for-the-badge&logo=Next.js&logoColor=#fff)&ensp;
+![](https://img.shields.io/badge/Adonis-white?style=for-the-badge&logo=Adonisjs&logoColor=purple)&ensp;
 ![](https://img.shields.io/badge/Typescript-0000FF?style=for-the-badge&logo=Typescript&logoColor=white)&ensp;
 ![](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=yellow)&ensp;
 
