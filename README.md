@@ -24,20 +24,19 @@
   
 ## Tecnologias que uso no dia a dia 🧑‍💻
   
-  ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&ensp;
-  ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&ensp;
-  ![](https://img.shields.io/badge/Sass-F00F7F?style=for-the-badge&logo=Sass&logoColor=FFFFFF)&ensp;
-  ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&ensp;
-  ![](https://img.shields.io/badge/WebPack-FFFFFF?style=for-the-badge&logo=WebPack&logoColor=cyan)&ensp;
-  ![](https://img.shields.io/badge/Babel-B00000?style=for-the-badge&logo=Babel&logoColor=white)&ensp;
-  ![](https://img.shields.io/badge/Bootstrap-655EEB?style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF)&ensp;
+  ![](https://img.shields.io/badge/HTML5-1E1E1E?style=for-the-badge&logo=html5&logoColor=E34F26)&ensp;
+  ![](https://img.shields.io/badge/CSS3-1E1E1E?style=for-the-badge&logo=css3&logoColor=1572B6)&ensp;
+  ![](https://img.shields.io/badge/Sass-1E1E1E?style=for-the-badge&logo=Sass&logoColor=F00F7F)&ensp;
+  ![](https://img.shields.io/badge/JavaScript-1E1E1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&ensp;
+  ![](https://img.shields.io/badge/WebPack-1E1E1E?style=for-the-badge&logo=WebPack&logoColor=cyan)&ensp;
+  ![](https://img.shields.io/badge/Babel-1E1E1E?style=for-the-badge&logo=Babel&logoColor=F7DF1E)&ensp;
+  ![](https://img.shields.io/badge/Bootstrap-1E1E1E?style=for-the-badge&logo=Bootstrap&logoColor=655EEB)&ensp;
   ![](https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=React&logoColor=cyan)&ensp;
-  ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&ensp;
-  ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&ensp;
-  ![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&ensp;
-  ![](https://img.shields.io/badge/Figma-FA0072?style=for-the-badge&logo=Figma&logoColor=FFFFFF)&ensp;
-  ![](https://img.shields.io/badge/-VS%20Code-2c2c32?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&ensp;
-  ![](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)&ensp;
+  ![](https://img.shields.io/badge/Node.js-1E1E1E?style=for-the-badge&logo=node.js&logoColor=43853D)&ensp;
+  ![](https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=F05032)&ensp;
+  ![](https://img.shields.io/badge/GitHub-1E1E1E?style=for-the-badge&logo=github&logoColor=FFFFFF)&ensp;
+  ![](https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=Figma&logoColor=FA0072)&ensp;
+  ![](https://img.shields.io/badge/-VS%20Code-1E1E1E?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&ensp;
 
 </div>  
 
@@ -46,9 +45,9 @@
 ## Estou estudando 👨‍🎓
 
 ![](https://img.shields.io/badge/Next.js-1E1E1E?style=for-the-badge&logo=Next.js&logoColor=#fff)&ensp;
-![](https://img.shields.io/badge/Adonis-white?style=for-the-badge&logo=Adonisjs&logoColor=purple)&ensp;
-![](https://img.shields.io/badge/Typescript-0000FF?style=for-the-badge&logo=Typescript&logoColor=white)&ensp;
-![](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=yellow)&ensp;
+![](https://img.shields.io/badge/Adonis-1E1E1E?style=for-the-badge&logo=Adonisjs&logoColor=purple)&ensp;
+![](https://img.shields.io/badge/Typescript-1E1E1E?style=for-the-badge&logo=Typescript&logoColor=0000FF)&ensp;
+![](https://img.shields.io/badge/MySQL-1E1E1E?style=for-the-badge&logo=MySQL&logoColor=yellow)&ensp;
 
 </div>
 
