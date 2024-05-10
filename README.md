@@ -27,6 +27,7 @@
   ![](https://img.shields.io/badge/HTML5-1E1E1E?style=for-the-badge&logo=html5&logoColor=E34F26)&ensp;
   ![](https://img.shields.io/badge/CSS3-1E1E1E?style=for-the-badge&logo=css3&logoColor=1572B6)&ensp;
   ![](https://img.shields.io/badge/Sass-1E1E1E?style=for-the-badge&logo=Sass&logoColor=F00F7F)&ensp;
+  ![](https://img.shields.io/badge/Tailwind-1E1E1E?style=for-the-badge&logo=Tailwindcss&logoColor=blue)&ensp;
   ![](https://img.shields.io/badge/JavaScript-1E1E1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&ensp;
   ![](https://img.shields.io/badge/WebPack-1E1E1E?style=for-the-badge&logo=WebPack&logoColor=cyan)&ensp;
   ![](https://img.shields.io/badge/Babel-1E1E1E?style=for-the-badge&logo=Babel&logoColor=F7DF1E)&ensp;
