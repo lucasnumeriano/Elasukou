@@ -27,12 +27,13 @@
   ![](https://img.shields.io/badge/HTML5-1E1E1E?style=for-the-badge&logo=html5&logoColor=E34F26)&ensp;
   ![](https://img.shields.io/badge/CSS3-1E1E1E?style=for-the-badge&logo=css3&logoColor=1572B6)&ensp;
   ![](https://img.shields.io/badge/Sass-1E1E1E?style=for-the-badge&logo=Sass&logoColor=F00F7F)&ensp;
+  ![](https://img.shields.io/badge/Tailwind-1E1E1E?style=for-the-badge&logo=Tailwindcss&logoColor=blue)&ensp;
   ![](https://img.shields.io/badge/JavaScript-1E1E1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&ensp;
   ![](https://img.shields.io/badge/WebPack-1E1E1E?style=for-the-badge&logo=WebPack&logoColor=cyan)&ensp;
   ![](https://img.shields.io/badge/Babel-1E1E1E?style=for-the-badge&logo=Babel&logoColor=F7DF1E)&ensp;
   ![](https://img.shields.io/badge/Bootstrap-1E1E1E?style=for-the-badge&logo=Bootstrap&logoColor=655EEB)&ensp;
-  ![](https://img.shields.io/badge/Tailwind-1E1E1E?style=for-the-badge&logo=Tailwindcss&logoColor=blue)&ensp;
   ![](https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=React&logoColor=cyan)&ensp;
+  ![](https://img.shields.io/badge/Next.js-1E1E1E?style=for-the-badge&logo=Next.js&logoColor=#fff)&ensp;
   ![](https://img.shields.io/badge/Node.js-1E1E1E?style=for-the-badge&logo=node.js&logoColor=43853D)&ensp;
   ![](https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=F05032)&ensp;
   ![](https://img.shields.io/badge/GitHub-1E1E1E?style=for-the-badge&logo=github&logoColor=FFFFFF)&ensp;
@@ -45,7 +46,6 @@
 
 ## Estou estudando 👨‍🎓
 
-![](https://img.shields.io/badge/Next.js-1E1E1E?style=for-the-badge&logo=Next.js&logoColor=#fff)&ensp;
 ![](https://img.shields.io/badge/Adonis-1E1E1E?style=for-the-badge&logo=Adonisjs&logoColor=purple)&ensp;
 ![](https://img.shields.io/badge/Typescript-1E1E1E?style=for-the-badge&logo=Typescript&logoColor=0000FF)&ensp;
 ![](https://img.shields.io/badge/MySQL-1E1E1E?style=for-the-badge&logo=MySQL&logoColor=yellow)&ensp;
