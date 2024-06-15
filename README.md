@@ -29,6 +29,7 @@
   ![](https://img.shields.io/badge/Sass-1E1E1E?style=for-the-badge&logo=Sass&logoColor=F00F7F)&ensp;
   ![](https://img.shields.io/badge/Tailwind-1E1E1E?style=for-the-badge&logo=Tailwindcss&logoColor=blue)&ensp;
   ![](https://img.shields.io/badge/JavaScript-1E1E1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&ensp;
+  ![](https://img.shields.io/badge/Typescript-1E1E1E?style=for-the-badge&logo=Typescript&logoColor=0000FF)&ensp;
   ![](https://img.shields.io/badge/WebPack-1E1E1E?style=for-the-badge&logo=WebPack&logoColor=cyan)&ensp;
   ![](https://img.shields.io/badge/Babel-1E1E1E?style=for-the-badge&logo=Babel&logoColor=F7DF1E)&ensp;
   ![](https://img.shields.io/badge/Bootstrap-1E1E1E?style=for-the-badge&logo=Bootstrap&logoColor=655EEB)&ensp;
@@ -47,7 +48,6 @@
 ## Estou estudando 👨‍🎓
 
 ![](https://img.shields.io/badge/Adonis-1E1E1E?style=for-the-badge&logo=Adonisjs&logoColor=purple)&ensp;
-![](https://img.shields.io/badge/Typescript-1E1E1E?style=for-the-badge&logo=Typescript&logoColor=0000FF)&ensp;
 ![](https://img.shields.io/badge/MySQL-1E1E1E?style=for-the-badge&logo=MySQL&logoColor=yellow)&ensp;
 
 </div>
