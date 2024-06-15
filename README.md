@@ -54,6 +54,16 @@
 
 <div align="center">
 
+## Tenho interesse em 🕵️
+
+![](https://img.shields.io/badge/Ruby-1E1E1E?style=for-the-badge&logo=Ruby&logoColor=c52f24)&ensp;
+![](https://img.shields.io/badge/RubyOnRails-1E1E1E?style=for-the-badge&logo=RubyOnRails&logoColor=c52f24)&ensp;
+![](https://img.shields.io/badge/PostgreSQL-1E1E1E?style=for-the-badge&logo=PostgreSQL&logoColor=blue)&ensp;
+
+</div>
+
+<div align="center">
+
 ## Troféus
 
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=lucasnumeriano&theme=darkhub&margin-w=3&margin-h=15"/>
